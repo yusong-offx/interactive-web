@@ -4,4 +4,4 @@ This is interactive web effect using simple rectangle.
 
 ## Content
 
-<video src="./test.mp4"  loop="loop" autoplay plays-inline muted />
+<video src="https://github.com/user-attachments/assets/a5b4227c-5985-4e62-95c9-6114be5ac157" autoplay />
